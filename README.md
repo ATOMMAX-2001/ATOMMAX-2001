@@ -1,4 +1,8 @@
  ### _Hello There_ 👋   _I'am Abilash_
+- 🔭 I’m currently Building on New interpreted Language
+- 🌱 I’m currently learning Vue.js
+- 👯 I’m looking to collaborate on Python and Web Projects
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/abilash-suresh/">Linkedin</a>
 
 <!--
 **ATOMMAX2001/ATOMMAX2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
