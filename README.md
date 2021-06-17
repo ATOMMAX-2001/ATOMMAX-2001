@@ -1,8 +1,14 @@
- ### _Hello There_ 👋   _I'am Abilash_
-- 🔭 I’m currently Building on New interpreted Language
-- 🌱 I’m currently learning Vue.js
-- 👯 I’m looking to collaborate on Python and Web Projects
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/abilash-suresh/">Linkedin</a>
+  ### _Hello There_ 👋   _I'am Abilash_
+
+ <img src="https://fastlane.tech/wp-content/uploads/2020/01/Zero-Code.gif" style="width:'50%';" class="gif"/>
+ 
+- 🔭 I’m currently Building on a New Interpreted Language <img src="https://img.shields.io/badge/FOX-red" class="fox"/>
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/VUE.js-green" class="vue"/> <img src="https://img.shields.io/badge/React.js-skyblue" class="react"/>
+- 👯 I’m looking to collaborate on <img src="https://img.shields.io/badge/Python-darkgreen" class="python"/> and <img src="https://img.shields.io/badge/Web Development-orange" class="web"/> Projects
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/abilash-suresh/"><img src="https://img.shields.io/badge/Linkedin-blue" class="link"/></a>
+- ❤️ My Favourite Programming/Scripting Language are: <img src="https://img.shields.io/badge/Python-darkgreen" class="py"/> <img src="https://img.shields.io/badge/C++-blue" class="link"/> <img src="https://img.shields.io/badge/PHP-violet" class="php"/> <img src="https://img.shields.io/badge/JS-yellow" class="js"/>
+
+
 
 <!--
 **ATOMMAX2001/ATOMMAX2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
