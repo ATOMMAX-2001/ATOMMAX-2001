@@ -1,6 +1,6 @@
   ### _Hello There_ 👋   _I'am Abilash_
 
- <img src="https://fastlane.tech/wp-content/uploads/2020/01/Zero-Code.gif" style="width:'50%';" class="gif"/>
+ <img align="center" width="500" height="400" src="https://fastlane.tech/wp-content/uploads/2020/01/Zero-Code.gif" class="gif" alt="coding" />
  
 - 🔭 I’m currently Building on a New Interpreted Language <img src="https://img.shields.io/badge/FOX-red" class="fox"/>
 - 🌱 I’m currently learning <img src="https://img.shields.io/badge/VUE.js-green" class="vue"/> <img src="https://img.shields.io/badge/React.js-skyblue" class="react"/>
