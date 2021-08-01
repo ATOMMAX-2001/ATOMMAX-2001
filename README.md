@@ -2,7 +2,7 @@
 
  <img align="center" width="500" height="400" src="https://fastlane.tech/wp-content/uploads/2020/01/Zero-Code.gif" class="gif" alt="coding" />
  
-- 🔭 I’m currently Building on a New Programming Language <img src="https://img.shields.io/badge/FOX-red" class="fox"/>
+- 🔭 I’m currently Building  a New Programming Language called <img src="https://img.shields.io/badge/FOX-red" class="fox"/>
 - 🌱 I’m currently learning <img src="https://img.shields.io/badge/VUE.js-green" class="vue"/> <!--<img src="https://img.shields.io/badge/React.js-skyblue" class="react"/>-->
 - 👯 I’m looking to collaborate on <img src="https://img.shields.io/badge/Python-darkgreen" class="python"/> and <img src="https://img.shields.io/badge/Web Development-orange" class="web"/> Projects
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/abilash-suresh/"><img src="https://img.shields.io/badge/Linkedin-blue" class="link"/></a>
