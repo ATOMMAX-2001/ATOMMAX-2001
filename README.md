@@ -1,5 +1,7 @@
    <img align="right" width="330" height="300"  src="https://fastlane.tech/wp-content/uploads/2020/01/Zero-Code.gif" class="gif" alt="coding" />
 
+<br />
+
   ### _Hello There_ 👋   _I'am Abilash_
  
 - 🔭 I’m currently Building  a New Programming Language called <img src="https://img.shields.io/badge/FOX-red" class="fox"/>
@@ -14,17 +16,20 @@
   <br />
   <br />
   <br /> <br />
-  
+  <!--Trophy -->
+   
 [![trophy](https://github-profile-trophy.vercel.app/?username=ATOMMAX2001&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ATOMMAX2001&theme=monokai)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ATOMMAX2001&theme=monokai)
-
+<span align="right">
+   
+   ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ATOMMAX2001&theme=monokai)
+   </span>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ATOMMAX2001&theme=monokai)
-
+<span align="right">
+   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ATOMMAX2001&theme=monokai)
-
+   </span>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ATOMMAX2001&theme=monokai)
   </div>
 <!--
