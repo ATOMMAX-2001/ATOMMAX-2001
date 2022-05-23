@@ -1,8 +1,10 @@
-   <img align="right" width="330" height="300"  src="https://fastlane.tech/wp-content/uploads/2020/01/Zero-Code.gif" class="gif" alt="coding" />
 
-<br />
-
-  ### _Hello There_ 👋   _I'am Abilash_
+  <table><tr>
+   
+   <td valign="top">
+<!--<div valign="top">-->
+  
+   ### _Hello There_ 👋   _I'am Abilash_
  
 - 🔭 I’m currently Building  a New Programming Language called <img src="https://img.shields.io/badge/JACKAL-red" class="JACKAL"/>
 - 🌱 I’m currently learning <img src="https://img.shields.io/badge/VUE.js-green" class="vue"/> <!--<img src="https://img.shields.io/badge/React.js-skyblue" class="react"/>-->
@@ -10,12 +12,31 @@
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/abilash-suresh/"><img src="https://img.shields.io/badge/Linkedin-blue" class="link"/></a>
 - ❤️ My Favourite Programming/Scripting Language are: <img src="https://img.shields.io/badge/Python-darkgreen" class="py"/> <img src="https://img.shields.io/badge/C++-blue" class="link"/> <img src="https://img.shields.io/badge/PHP-violet" class="php"/> <img src="https://img.shields.io/badge/JS-yellow" class="js"/>
 
+<!--</div>   -->
+   </td>
+   
+  <!--<div dir ="rtl">-->
+   <td valign="top" ><img align="right" width="330" height="300"  src="https://fastlane.tech/wp-content/uploads/2020/01/Zero-Code.gif" class="gif" alt="coding" />
+   <!--</div>-->
+   </td>
+   
+
+
+
+   
+   </tr></table>
+   
+   
+   
+
+
+
 
 <div align="center">
  
   <br />
   <br />
-  <br /> <br />
+  <!--<br /> <br />-->
   <!--Trophy -->
    
 [![trophy](https://github-profile-trophy.vercel.app/?username=ATOMMAX-2001&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
