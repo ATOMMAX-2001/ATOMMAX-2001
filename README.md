@@ -16,7 +16,7 @@
    </td>
    
   <!--<div dir ="rtl">-->
-   <td valign="top" ><img align="right" width="330" height="300"  src="https://fastlane.tech/wp-content/uploads/2020/01/Zero-Code.gif" class="gif" alt="coding" />
+   <td valign="top" ><img align="right" width="330" height="300"  src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" class="gif" alt="coding" />
    <!--</div>-->
    </td>
    
