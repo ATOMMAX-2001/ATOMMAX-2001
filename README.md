@@ -18,7 +18,7 @@
   <!--<div dir ="rtl">-->
    <td valign="top" >
      <div style="text-align: center;">
-        <img align="absmiddle" width="430" height="800" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" class="gif" alt="coding" />
+        <img align="absmiddle" width="430" height="300" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" class="gif" alt="coding" />
      </div>
      <!-- <img align="right" width="430" height="800"  src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" class="gif" alt="coding" /> -->
    <!--</div>-->
